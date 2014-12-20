@@ -1,0 +1,22 @@
+{
+	"origination"	:	{
+							"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/origination.jpg",
+							"title"			:	"Origination",
+							"description"	:	"We are a universal supplier of all growths of cotton to the world’s textile markets, sourcing our cotton from all four major growing continents – Africa, Asia, the Americas and Australia. Over the years, we have built up solid origination experience both in leveraging our knowledge and expertise to assist farmers and ginners obtain a fair price for their produce, and in providing them with guidance on better crop management practices. This, in turn, provides us with a consistent supply of good quality cotton."
+						},
+	"processing"	:	{
+							"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/processing.jpg",
+							"title"			:	"Processing",
+							"description"	:	"This full control over the raw cotton supply chain, enables us to improve lint quality and produce customised, contamination-controlled cotton.<p>Using the latest technology, our world-class ginning systems help improve on fibre quality, benefitting both grower and spinning mill. In Africa, our ginning programmes involve partnering with growers, regulatory agencies and logistics providers to improve farm productivity and seed cotton handling processes, thereby improving economic benefits for the industry.<p>In effectively combining exceptional processing standards, leading-edge technology, world-class ginning equipment, stringent maintenance programmes and highly-trained operators, we have been able to enhance grower confidence to produce superior and consistent quality cotton safely."
+						},
+	"marketing"		:	{
+							"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/marketing.jpg",
+							"title"			:	"Marketing",
+							"description"	:	"We are a major supplier of cotton to the world’s textile markets, servicing both cotton producers and spinning mills worldwide. Our experienced team helps to develop and maintain long-term relationships with our customers, supplying them with timely quality cotton in accordance with their requirements.<p>Our central marketing office is in Singapore, in close proximity to the world’s major consuming markets. We also have marketing offices in the USA, China, India, Turkey and Vietnam, and carry inventories in China, Malaysia, Turkey and the UAE to meet any just-in-time customer requirements. We also operate captive warehousing spaces in the USA, Australia, Côte d’Ivoire, Tanzania and Nigeria, to offer our customers a variety of flexible shipping arrangements and up-to-date information and shipment tracking."
+						},
+	"risk"			:	{
+							"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/risk.jpg",
+							"title"			:	"Risk",
+							"description"	:	"We have developed risk management as a core competence. Our capacity to identify, capture, measure, monitor, manage and control potential business risks, is due to our direct presence in all the major cotton-markets worldwide.<p>By obtaining first-hand information on emerging supply and demand dynamics, we are able to provide timely market intelligence to our customers. This has made us a global player in a relatively short time. Despite the challenges of the volatile commodity environment in controlling risks and protecting margins, our in-house expertise provides affordable risk management solutions to all our customers and suppliers. We can also customise our product offerings according to various pricing terms, currencies and tenors."
+						}
+}

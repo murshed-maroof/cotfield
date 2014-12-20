@@ -1,0 +1,71 @@
+{
+	"stakeholders_mutual_benefits"	:	{
+											"introduction"	:	"Cotfield consistently provide following benefits to our stakeholders:",
+											"description"	:	"<ul><li>Competitive price</li><li>Timely shipment</li><li>Timely payment</li><li>Co-ordination of contract</li><li>Prompt short-weight settlement</li><li>Prompt quality-claim settlement</li></ul>"
+										},
+	"suppliers"						:	[
+											{
+												"id"		:	"1",
+												"name"		:	"OLAM International",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/OLAM.png",
+												"about"		:	""
+											},
+											{
+												"id"		:	"2",
+												"name"		:	"REINHART",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/Renhart.jpg",
+												"about"		:	""
+											},
+											{
+												"id"		:	"3",
+												"name"		:	"Queensland Cotton",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/Queensland.png",
+												"about"		:	""
+											},
+											{
+												"id"		:	"4",
+												"name"		:	"RAGHUNATH ARGOTECH",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/Raghunath.jpg",
+												"about"		:	""
+											},
+											{
+												"id"		:	"5",
+												"name"		:	"MANJEET",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/Manjeet.png",
+												"about"		:	""
+											},
+											{
+												"id"		:	"6",
+												"name"		:	"UNKNOWN",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/Unknown.png",
+												"about"		:	""
+											},
+											{
+												"id"		:	"7",
+												"name"		:	"SUNNY Private Limited",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/sunny.png",
+												"about"		:	""
+											},
+											{
+												"id"		:	"8",
+												"name"		:	"SALSAR BALAJI INDUSTRIES",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/Salasar_balaji.png",
+												"about"		:	""
+											},
+											{
+												"id"		:	"9",
+												"name"		:	"DHANCOT FIBER",
+												"country"	:	"",
+												"logo"		:	"http://www.cotfield.com/wp-content/uploads/2014/11/dhancot_fiber.png",
+												"about"		:	""
+											}
+										]
+}

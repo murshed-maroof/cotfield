@@ -1,0 +1,36 @@
+{
+	"core_values_of_cotfield"			:	{
+												"title"			:	"CORE VALUES OF COTFIELD",
+												"description"	:	"Cotfield's core values consist of 6 key elements. These values are:",
+												"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/Core_values.png"
+											},
+	"sales_diagram_since_starting"		:	{
+												"title"			:	"SALES DIAGRAM SINCE OUR STARTING",
+												"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/Sales_in_mts.png"
+											},
+	
+	"core_services_of_marketing_team"	:	[
+												"1"	:	{
+															"title"			:	"Providing latest market update daily through mail, SMS and phone:",
+															"description"	:	"We send specialized offer to our honorable customers and general offer to almost all the spinning mills. For specialized offer we segregate out total customer from various perspectives such as- on the basis of types of cotton they use, volume of consumption, frequency of purchasing etc. Then as per their requirement we send them specialized offer with special price focusing specially on the type of cotton they use. We prefer to treat our customer individually"
+														},
+												"2"	:	{
+															"title"			:	"Market trend analysis and inform to customer:",
+															"description"	:	"We present market trend for specific types of cotton to our customer that assist them while making purchase decision. For example- the price trend of MCU-5 (31&32mm) in 2014 is as follows-",
+															"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/marketing_2.png"
+														},
+												"3"	:	{
+															"title"			:	"Monthly USDA report analysis & presentation to our customers:",
+															"description"	:	"United States Department of Agriculture (USDA) publishes a report monthly.  This report predict about future production, import, export & domestic consumption of major international cotton influencing countries of the world. Our marketing team analyzes this report and present to our customer in an easier format. This worldwide market information guide the spinners not only in purchasing cotton at right time but also sell yarn in competitive price.<p>In addition to the following we inform our customer about the various international laws and regulation which may influence the international trade, especially to import raw cotton and to export finished products. It helps them to operate their business in more scientific manner.",
+															"image"			:	"http://www.cotfield.com/wp-content/uploads/2014/11/marketing_3.png"
+														},
+												"4"	:	{
+															"title"			:	"Regular visit to our customers to keep in touch and exchange information:",
+															"description"	:	"Our marketing team regularly visits our existing customers as well as the likely customers and exchange various information regarding different aspects of business."
+														},
+												"5"	:	{
+															"title"			:	"Ensuring after sell services:",
+															"description"	:	"Selling cotton to a customer is not the only aim of our company rather it is beginning of our relationship. We utterly believe in making good relationship with our customers. We keep a close touch with the customers from the very starting of a business to the end of settlement of this single contract."
+														}
+											]
+}
