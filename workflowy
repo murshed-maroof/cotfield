@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>refazul.refat@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Clients" >
+      <outline text="Cotfield" >
+        <outline text="Website" >
+          <outline text="New features" >
+            <outline text="Market report #p2" >
+              <outline text="http://plexus-cotton.co.uk/Home" />
+              <outline text="Requires to put email address on first visit" /></outline>
+            <outline text="Career - CV drop #p3" /></outline>
+          <outline text="Issues" >
+            <outline text="Must hide json posts #p1" /></outline>
+          <outline text="Updates" >
+            <outline text="Information #p2" />
+            <outline text="Background Image #p3" /></outline>
+        </outline>
+        <outline text="Accounting" />
+        <outline text="Business Solution" >
+          <outline text="Tasks" >
+            <outline text="Create a login panel @refazul" >
+              <outline text="URL/login" /></outline>
+            <outline text="D3 tree diagram @refazul " />
+            <outline text="Pop up boxes @refazul " />
+            <outline text="File upload/preview @refazul " />
+            <outline text="Design @maroof " >
+              <outline text="Start" >
+                <outline text="Supplier Company #Leaf" >
+                  <outline text="Dropdown +/-" />
+                  <outline text="Information +/-" /></outline>
+                <outline text="Customer Company #Leaf " >
+                  <outline text="Dropdown +/-" />
+                  <outline text="Information +/-" /></outline>
+                <outline text="Notify 1 d" /></outline>
+              <outline text="Commodity" >
+                <outline text="Quantity #Leaf " >
+                  <outline text="Quantity : [0-9.] +/-" />
+                  <outline text="Unit : Dropdown" /></outline>
+                <outline text="Price #Leaf " >
+                  <outline text="Amount : [0-9.] +/-" />
+                  <outline text="Currency : Dropdown" /></outline>
+                <outline text="Type #Leaf " >
+                  <outline text="Type : Dropdown" /></outline>
+                <outline text="Origin #Leaf " >
+                  <outline text="Origin: Dropdown" /></outline>
+              </outline>
+              <outline text="Contract Sign" >
+                <outline text="Contract No #Leaf " >
+                  <outline text="Contract No : [a-zA-Z0-9/]" /></outline>
+                <outline text="Date of Agreement #Leaf " >
+                  <outline text="Date : Date" /></outline>
+                <outline text="Contract Copy #Leaf " >
+                  <outline text="Seller only : File" />
+                  <outline text="Both side : File" /></outline>
+              </outline>
+              <outline text="" /></outline>
+          </outline>
+          <outline text="Links" >
+            <outline text="URL = http://business.cotfield.com" />
+            <outline text="Github = " /></outline>
+        </outline>
+        <outline text="Brochure" /></outline>
+      <outline text="Kids and Parents" >
+        <outline text="Website" />
+        <outline text="Accounting" />
+        <outline text="Departmental Store Software" /></outline>
+    </outline>
+  </body>
+</opml>
